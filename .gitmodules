@@ -1,0 +1,45 @@
+[submodule "00-MKS21X-demorepo1"]
+	path = 00-MKS21X-demorepo1
+	url = https://github.com/mjawwad19/00-MKS21X-demorepo1.git
+[submodule "01-MKS21X-Hello"]
+	path = 01-MKS21X-Hello
+	url = https://github.com/mjawwad19/01-MKS21X-Hello.git
+[submodule "02-MKS21X-CtoF"]
+	path = 02-MKS21X-CtoF
+	url = https://github.com/mjawwad19/02-MKS21X-CtoF.git
+[submodule "03-MKS21X-arrays"]
+	path = 03-MKS21X-arrays
+	url = https://github.com/mjawwad19/03-MKS21X-arrays.git
+[submodule "04-MKS21X-Bank"]
+	path = 04-MKS21X-Bank
+	url = https://github.com/mjawwad19/04-MKS21X-Bank.git
+[submodule "05-MKS21X-Triangle"]
+	path = 05-MKS21X-Triangle
+	url = https://github.com/mjawwad19/05-MKS21X-Triangle.git
+[submodule "06-MKS21X-Numbers"]
+	path = 06-MKS21X-Numbers
+	url = https://github.com/mjawwad19/06-MKS21X-Numbers.git
+[submodule "07-MKS21X-SuperArray"]
+	path = 07-MKS21X-SuperArray
+	url = https://github.com/mjawwad19/07-MKS21X-SuperArray.git
+[submodule "08-MKS21X-OrderedArrayList"]
+	path = 08-MKS21X-OrderedArrayList
+	url = https://github.com/mjawwad19/08-MKS21X-OrderedArrayList.git
+[submodule "09-MKS21X-2darraymethods"]
+	path = 09-MKS21X-2darraymethods
+	url = https://github.com/mjawwad19/09-MKS21X-2darraymethods.git
+[submodule "14-MKS21X-Sorts"]
+	path = 14-MKS21X-Sorts
+	url = https://github.com/mjawwad19/14-MKS21X-Sorts.git
+[submodule "13-MKS21X-LinkedList"]
+	path = 13-MKS21X-LinkedList
+	url = https://github.com/mjawwad19/13-MKS21X-LinkedList.git
+[submodule "12-MKS21X-CodeAnywhere"]
+	path = 12-MKS21X-CodeAnywhere
+	url = https://github.com/mjawwad19/12-MKS21X-CodeAnywhere.git
+[submodule "11-MKS21X-MyString"]
+	path = 11-MKS21X-MyString
+	url = https://github.com/mjawwad19/11-MKS21X-MyString.git
+[submodule "10-MKS21X-WordSearch"]
+	path = 10-MKS21X-WordSearch
+	url = https://github.com/mjawwad19/10-MKS21X-WordSearch.git
