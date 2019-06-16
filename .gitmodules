@@ -1,0 +1,39 @@
+[submodule "MKS21X-CtoF"]
+	path = MKS21X-CtoF
+	url = https://github.com/mjawwad19/MKS21X-CtoF.git
+[submodule "MKS21X-arrays"]
+	path = MKS21X-arrays
+	url = https://github.com/mjawwad19/MKS21X-arrays.git
+[submodule "MKS21X-Bank"]
+	path = MKS21X-Bank
+	url = https://github.com/mjawwad19/MKS21X-Bank.git
+[submodule "MKS21X-Triangle"]
+	path = MKS21X-Triangle
+	url = https://github.com/mjawwad19/MKS21X-Triangle.git
+[submodule "MKS21X-Numbers"]
+	path = MKS21X-Numbers
+	url = https://github.com/mjawwad19/MKS21X-Numbers.git
+[submodule "MKS21X-SuperArray"]
+	path = MKS21X-SuperArray
+	url = https://github.com/mjawwad19/MKS21X-SuperArray.git
+[submodule "MKS21X-OrderedArrayList"]
+	path = MKS21X-OrderedArrayList
+	url = https://github.com/mjawwad19/MKS21X-OrderedArrayList.git
+[submodule "MKS21X-2darraymethods"]
+	path = MKS21X-2darraymethods
+	url = https://github.com/mjawwad19/MKS21X-2darraymethods.git
+[submodule "MKS21X-WordSearch"]
+	path = MKS21X-WordSearch
+	url = https://github.com/mjawwad19/MKS21X-WordSearch.git
+[submodule "MKS21X-MyString"]
+	path = MKS21X-MyString
+	url = https://github.com/mjawwad19/MKS21X-MyString.git
+[submodule "MKS21X-CodeAnywhere"]
+	path = MKS21X-CodeAnywhere
+	url = https://github.com/mjawwad19/MKS21X-CodeAnywhere.git
+[submodule "MKS21X-Sorts"]
+	path = MKS21X-Sorts
+	url = https://github.com/mjawwad19/MKS21X-Sorts.git
+[submodule "MKS21X-LinkedList"]
+	path = MKS21X-LinkedList
+	url = https://github.com/mjawwad19/MKS21X-LinkedList.git
