@@ -43,3 +43,6 @@
 [submodule "10-MKS21X-WordSearch"]
 	path = 10-MKS21X-WordSearch
 	url = https://github.com/mjawwad19/10-MKS21X-WordSearch.git
+[submodule "MKS21X-FinalProject"]
+	path = MKS21X-FinalProject
+	url = https://github.com/mjawwad19/MKS21X-FinalProject.git
