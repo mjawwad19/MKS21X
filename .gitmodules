@@ -37,3 +37,9 @@
 [submodule "MKS21X-LinkedList"]
 	path = MKS21X-LinkedList
 	url = https://github.com/mjawwad19/MKS21X-LinkedList.git
+[submodule "MKS21X-Hello"]
+	path = MKS21X-Hello
+	url = https://github.com/mjawwad19/MKS21X-Hello.git
+[submodule "demorepo1"]
+	path = demorepo1
+	url = https://github.com/mjawwad19/demorepo1.git
